@@ -1410,7 +1410,7 @@ SEO Marketing CSS
 .who-we-area .who-we-are-img .we-are-img .we-are-2 {
   position: absolute;
   left: 15px;
-  top: 50px;
+  top: 5px;
   border-radius: 10px;
   box-shadow: 0px 0px 20px #7f7f7f;
   animation: moveBounce 5s linear infinite;
@@ -1424,7 +1424,7 @@ SEO Marketing CSS
   padding-bottom: 45px;
 }
 .choose-us-area .chooses-img-contant .section-title {
-  text-align: left;
+  text-align: right;
   margin-bottom: 45px;
 }
 .choose-us-area .chooses-img-contant .section-title h2 {
