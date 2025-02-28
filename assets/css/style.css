@@ -1151,7 +1151,7 @@ Saas Landing CSS
 .go-top {
   position: fixed;
   bottom: 15px;
-  right: 15px;
+  left: 15px;
   cursor: pointer;
   z-index: 9999;
   transform: scale(0);
